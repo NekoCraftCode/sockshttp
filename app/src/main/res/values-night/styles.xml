@@ -33,6 +33,7 @@
 	<!-- Preference Theme -->
 	<style name="AppPreference"
         parent="PreferenceThemeOverlay">
+		<item name="android:textSize">14sp</item>
 	</style>
 	
 	
